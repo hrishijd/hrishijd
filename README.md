@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hi there 👋,
+I'm Hrishi Jadhav, I'm a full stack developer and a self-motivated Engineer with 1.5 years of experience, who wants to solve problems with code and find logical solutions to create an impact. 
+I believe programming languages, libraries, protocols etc are tools to solve problems, and one should be capable of learning and working with tools he hasn't used, and adapt with this constantly evolving tech industry.
 
-<!--
-**hrishijd/hrishijd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools I have worked with before
 
-Here are some ideas to get you started:
+- Java
+- Spring
+- Javascript
+- Solidity
+- Ethereum
+- JPA/Hibernate
+- SQL
+- DeFi
+- AMM
+- Solidity
+- Go
+- Hardhat
+- NFTs
+- FTs
+- Ether.js
+- Data Structure and Algorithms
+- Node
+- Openzepplin Contracts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧐 About
+- 🌱 I’m currently working as a Associate Solutions Engineer at a Web3 startup named Qodeleaf.
+- 🤝 I'm looking forward to collaborating on some open source projects and private projects.
+- 🤔 I’m looking for Jobs and opportunities.
+- 😇 I will definitely like to learn about you.
+- 📫 How to reach me: mail me at [hrishi.jadhav24@gmail.com](mailto:hrishi.jadhav24@gmail.com)
+
+![My Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishijd&layout=compact&hide=html&theme=cobalt)
+
+## Have a good day
