@@ -25,7 +25,7 @@ I believe programming languages, libraries, protocols etc are tools to solve pro
 
 
 ## 🧐 About
-- 🌱 I’m currently working as a Associate Solutions Engineer at a Web3 startup named Syvora(formerly Qodeleaf).
+- 🌱 I’m currently working as a Associate Solutions Engineer at a Web3 startup named Syvora.
 - 🤝 I'm looking forward to collaborating on some open source projects and private projects.
 - 🤔 I’m looking for Jobs and opportunities.
 - 😇 I will definitely like to learn about you.
