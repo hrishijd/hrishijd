@@ -48,7 +48,7 @@ Software Engineer with **3.5+ years of professional experience**, progressing fr
 
 Led development of high-impact features, mentored engineers, and guided architectural decisions across multiple projects. Hands-on experience with **system design, automation, data pipelines, CI/CD, monitoring, and incident response**, supporting systems running in production environments.
 
-Comfortable owning the full software lifecycle—from requirements and architecture to deployment and operational support. Known for learning quickly, adapting to new domains, and delivering dependable, maintainable solutions in fast-paced engineering teams.
+Comfortable owning the full software lifecycle, from requirements and architecture to deployment and operational support. Known for learning quickly, adapting to new domains, and delivering dependable, maintainable solutions in fast-paced engineering teams.
 
 ---
 
