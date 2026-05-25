@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.producthunt.com/products/contextpool"><img src="https://img.shields.io/badge/ContextPool-%236%20on%20Product%20Hunt-DA552F?style=for-the-badge&logo=producthunt&logoColor=white" alt="ContextPool #6 on Product Hunt" /></a>
   <a href="https://fixmyai.dev"><img src="https://img.shields.io/badge/FixMyAI-93%25%20First--Try%20Fix-1a5fb4?style=for-the-badge" alt="FixMyAI" /></a>
-  <a href="https://surge.trade"><img src="https://img.shields.io/badge/Surge-Decentralized%20Exchange-1a5fb4?style=for-the-badge" alt="Surge" /></a>
+  <a href="https://www.surgedefi.com/"><img src="https://img.shields.io/badge/Surge-Decentralized%20Exchange-1a5fb4?style=for-the-badge" alt="Surge" /></a>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Most engineers _use_ AI coding tools. I _build_ tools that AI coding agents them
 **🧠 [ContextPool](https://contextpool.io) — Open-source Persistent Memory MCP Server**
 Consumed by **Claude Code, Cursor, Windsurf, and Kiro**. Scans past coding sessions, extracts structured engineering insights (bugs, fixes, design decisions), and injects relevant context at session start. Local-first, privacy-preserving architecture.
 
-`Rust` · `Model Context Protocol (MCP)` · `Anthropic SDK` · **[#6 on Product Hunt](https://www.producthunt.com/products/contextpool)**
+`Rust` · `Model Context Protocol (MCP)` · `LangChain` · `LangGraph` · **[#6 on Product Hunt](https://www.producthunt.com/products/contextpool)**
 ↳ [syv-labs/cxp](https://github.com/syv-labs/cxp) · [syv-labs/contextpool](https://github.com/syv-labs/contextpool)
 
 ---
@@ -44,7 +44,7 @@ Users submit broken AI-generated code, set their own price, get matched with a s
 
 ---
 
-**📈 [Surge](https://surge.trade) — Decentralized Cryptocurrency Exchange**
+**📈 [Surge](https://www.surgedefi.com/) — Decentralized Cryptocurrency Exchange**
 A production DEX I led from design to launch. High-throughput Go backends, real-time order matching, fee accounting, and end-to-end audit trails.
 
 `Go` · `Solidity` · `EVM` · `EIP-4626` · `XRPL EVM`
@@ -54,7 +54,7 @@ A production DEX I led from design to launch. High-throughput Go backends, real-
 ## 🧰 Tech Stack
 
 ### 🤖 AI & Agentic Infrastructure
-**Model Context Protocol (MCP)** · Anthropic SDK · OpenAI · Tool Use · Function Calling · RAG · Prompt & Context Engineering · Agentic Workflows · LLM Integration
+**Model Context Protocol (MCP)** · LangChain · LangGraph · OpenAI · Tool Use · Function Calling · RAG · Prompt & Context Engineering · Agentic Workflows · LLM Integration
 **Coding Agents:** Claude Code · Cursor · Windsurf · Kiro · GitHub Copilot
 
 ### 🔤 Languages
